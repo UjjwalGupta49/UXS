@@ -1,5 +1,6 @@
 # UXS
 Made UXS on Solana
+[Solacan](https://solscan.io/token/4XSCR35F1z39PmumAMG6C1ZeBrezanmCJehjZdLqaGwX?cluster=devnet)
 
 ---------
 ![image](https://user-images.githubusercontent.com/83765858/156309045-e4207ad3-d33d-4465-9256-0df40156a2f1.png)
