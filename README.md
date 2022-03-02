@@ -2,7 +2,7 @@
 Made UXS on Solana
 
 ---------
-https://github.com/UjjwalGupta49/UXS/blob/main/UXS.png
+![image](https://user-images.githubusercontent.com/83765858/156309045-e4207ad3-d33d-4465-9256-0df40156a2f1.png)
 
 -------
 
